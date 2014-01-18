@@ -1,4 +1,4 @@
 marabeas.io
 ===========
 
-Repo for my website marabeas.io - built with AngularJS lovin'
+Repo for @patrickmarabeas's website marabeas.io - built with AngularJS lovin'
